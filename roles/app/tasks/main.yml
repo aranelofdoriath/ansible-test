@@ -1,0 +1,4 @@
+---
+- name: Installing nodejs
+  yum: name=nodejs
+
